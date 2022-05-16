@@ -1,0 +1,2 @@
+Jetbrain Pycharm Community Edition 2022.1
+Python 3.9.2 64 Bit
